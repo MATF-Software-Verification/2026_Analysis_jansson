@@ -37,3 +37,9 @@ valgrind/*_log.txt
 
 # Lizard
 lizard/*.txt
+
+cpachecker/
+flawfinder/flawfinder-terminal.txt
+lizard/._preproc.c
+tests/integration_tests/coverage/
+tests/integration_tests/results/
