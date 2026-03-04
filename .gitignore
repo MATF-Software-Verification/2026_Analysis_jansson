@@ -23,3 +23,6 @@ tests/suites/test_dtoa
 # Formatting 
 style/clang-format-report.txt
 style/format-diffs/
+
+# Valgrind
+valgrind/*_log.txt
