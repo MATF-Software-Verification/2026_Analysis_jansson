@@ -10,7 +10,8 @@ tests/data/
 tests/new_report/
 tests/coverage_report/
 tests/report/
-test/suites/test_dtoa
+tests/suites/.vscode/
+tests/suites/test_dtoa
 
 # Build artefacts
 *.o
@@ -18,3 +19,7 @@ test/suites/test_dtoa
 *.a
 *.dll
 *.exe
+
+# Formatting 
+style/clang-format-report.txt
+style/format-diffs/
