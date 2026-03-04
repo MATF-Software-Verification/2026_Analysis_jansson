@@ -1,0 +1,20 @@
+# Coverage files
+*.gcno
+*.gcda
+*.gcov
+*coverage.info
+*coverage_filtered.info
+*.html
+
+tests/data/
+tests/new_report/
+tests/coverage_report/
+tests/report/
+test/suites/test_dtoa
+
+# Build artefacts
+*.o
+*.so
+*.a
+*.dll
+*.exe
