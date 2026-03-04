@@ -1,3 +1,4 @@
+# !/bin/bash
 OUTDIR="$(pwd)"
 JANSSONDIR="../jansson"
 SUITEDIR="test/suites/api"

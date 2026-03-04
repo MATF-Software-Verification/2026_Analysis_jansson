@@ -26,3 +26,6 @@ style/format-diffs/
 
 # Valgrind
 valgrind/*_log.txt
+
+# Lizard
+lizard/*.txt
