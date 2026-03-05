@@ -1,8 +1,8 @@
 # 2026_Analysis_jansson
 
-**Autorka:** Marijana Čupovič
-**Broj indeksa:** 1018/2025
-**Kurs:** Verifikacija softvera
+**Autorka:** Marijana Čupovič \
+**Broj indeksa:** 1018/2025 \
+**Kurs:** Verifikacija softvera 
 
 ## Jansson
 
@@ -12,7 +12,7 @@ Projekat je rađen nad bibliotekom jansson koja služi za kodiranje, dekodiranje
 - *Repozitorijum:* https://github.com/akheron/jansson
 - *Jezik:* C
 - *Analizirana grana:* master
-- *Heš komita:* ed5cae4
+- *Heš komita:* 1eb7a81
 
 ---
 
