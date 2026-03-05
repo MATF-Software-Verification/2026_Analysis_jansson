@@ -25,9 +25,9 @@ Projekat je rađen nad bibliotekom jansson koja služi za kodiranje, dekodiranje
 | 3 | lizard | Kompleksnost | Ciklomatska složenost |
 | 4 | flawfind | Bezbednost | Sigurnosne ranjivosti |
 | 5 | CUnit | Testiranje | Testiranje jedinica koda |
-| 6 | CUnit | Testiranje | Integraciono testiranje |
-| 7 | lcov  | Pokrivenost| Praćenje pokrivenosti testovma|
+| 6 | lcov  | Pokrivenost| Praćenje pokrivenosti testovma|
+| 7 | scan-build | Statička analiza | Simboličko izvršavanje  |
 
-## Zaključci
+## Zaključak
 
-Kod koji je analiziran je jako složen, ali su programerske prakse kreatora uredne i prate bezbednosna pravila. Nema curenja memorije, a rad sa rizičnim funkcijama je pedantno odrađen.
+Nakon analize *Jansson* biblioteke se može uočiti da je, iako jako kompleksna, dobro napisana. Pazilo se na moguće greške, performanse i preciznost, kao i na testiranje kreiranog koda. Kod koji je analiziran je jako složen, ali su programerske prakse kreatora uredne i prate bezbednosna pravila. Nema curenja memorije, a rad sa rizičnim funkcijama je pedantno odrađen.

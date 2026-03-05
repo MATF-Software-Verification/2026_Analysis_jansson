@@ -14,12 +14,6 @@ tests/unit_tests/report/
 tests/unit_tests/suites/.vscode/
 tests/unit_tests/suites/test_dtoa
 
-tests/integration_tests/data/
-tests/integration_tests/new_report/
-tests/integration_tests/coverage_report/
-tests/integration_tests/report/
-tests/integration_tests/suites/.vscode/
-tests/integration_tests/suites/test_dtoa
 
 # Build artefacts
 *.o
@@ -43,3 +37,5 @@ flawfinder/flawfinder-terminal.txt
 lizard/._preproc.c
 tests/integration_tests/coverage/
 tests/integration_tests/results/
+
+tmp
